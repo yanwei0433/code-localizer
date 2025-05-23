@@ -1,0 +1,96 @@
+{
+    "target_language": "it",
+    "meta": {
+        "name": "Core Vocabulary for Code Localizer (Italian)",
+        "version": "0.1.0",
+        "description": "Initial set of keywords and common types in Italian."
+    },
+    "system_vocabulary": {
+        "function": {
+            "en": "function",
+            "it": "funzione"
+        },
+        "var": {
+            "en": "var",
+            "it": "variabile"
+        },
+        "const": {
+            "en": "const",
+            "it": "costante"
+        },
+        "let": {
+            "en": "let",
+            "it": "variabileLocale"
+        },
+        "if": {
+            "en": "if",
+            "it": "se"
+        },
+        "else": {
+            "en": "else",
+            "it": "altrimenti"
+        },
+        "for": {
+            "en": "for",
+            "it": "per"
+        },
+        "while": {
+            "en": "while",
+            "it": "mentre"
+        },
+        "return": {
+            "en": "return",
+            "it": "ritorna"
+        },
+        "class": {
+            "en": "class",
+            "it": "classe"
+        },
+        "import": {
+            "en": "import",
+            "it": "importa"
+        },
+        "export": {
+            "en": "export",
+            "it": "esporta"
+        },
+        "try": {
+            "en": "try",
+            "it": "prova"
+        },
+        "catch": {
+            "en": "catch",
+            "it": "cattura"
+        },
+        "finally": {
+            "en": "finally",
+            "it": "finalmente"
+        },
+        "async": {
+            "en": "async",
+            "it": "asincrono"
+        },
+        "await": {
+            "en": "await",
+            "it": "attendi"
+        },
+        "true": {
+            "en": "true",
+            "it": "vero"
+        },
+        "false": {
+            "en": "false",
+            "it": "falso"
+        },
+        "null": {
+            "en": "null",
+            "it": "nullo"
+        },
+        "undefined": {
+            "en": "undefined",
+            "it": "indefinito"
+        }
+    },
+    "user_defined_identifiers": {},
+    "user_defined_comments": {}
+} 

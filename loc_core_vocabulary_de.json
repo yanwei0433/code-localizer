@@ -1,0 +1,96 @@
+{
+    "target_language": "de",
+    "meta": {
+        "name": "Core Vocabulary for Code Localizer (German)",
+        "version": "0.1.0",
+        "description": "Initial set of keywords and common types in German."
+    },
+    "system_vocabulary": {
+        "function": {
+            "en": "function",
+            "de": "Funktion"
+        },
+        "var": {
+            "en": "var",
+            "de": "Variable"
+        },
+        "const": {
+            "en": "const",
+            "de": "Konstante"
+        },
+        "let": {
+            "en": "let",
+            "de": "lokaleVariable"
+        },
+        "if": {
+            "en": "if",
+            "de": "wenn"
+        },
+        "else": {
+            "en": "else",
+            "de": "sonst"
+        },
+        "for": {
+            "en": "for",
+            "de": "für"
+        },
+        "while": {
+            "en": "while",
+            "de": "solange"
+        },
+        "return": {
+            "en": "return",
+            "de": "zurückgeben"
+        },
+        "class": {
+            "en": "class",
+            "de": "Klasse"
+        },
+        "import": {
+            "en": "import",
+            "de": "importieren"
+        },
+        "export": {
+            "en": "export",
+            "de": "exportieren"
+        },
+        "try": {
+            "en": "try",
+            "de": "versuchen"
+        },
+        "catch": {
+            "en": "catch",
+            "de": "fangen"
+        },
+        "finally": {
+            "en": "finally",
+            "de": "abschließend"
+        },
+        "async": {
+            "en": "async",
+            "de": "asynchron"
+        },
+        "await": {
+            "en": "await",
+            "de": "warten"
+        },
+        "true": {
+            "en": "true",
+            "de": "wahr"
+        },
+        "false": {
+            "en": "false",
+            "de": "falsch"
+        },
+        "null": {
+            "en": "null",
+            "de": "null"
+        },
+        "undefined": {
+            "en": "undefined",
+            "de": "undefiniert"
+        }
+    },
+    "user_defined_identifiers": {},
+    "user_defined_comments": {}
+} 

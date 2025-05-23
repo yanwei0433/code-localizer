@@ -1,0 +1,96 @@
+{
+    "target_language": "tr",
+    "meta": {
+        "name": "Core Vocabulary for Code Localizer (Turkish)",
+        "version": "0.1.0",
+        "description": "Initial set of keywords and common types in Turkish."
+    },
+    "system_vocabulary": {
+        "function": {
+            "en": "function",
+            "tr": "fonksiyon"
+        },
+        "var": {
+            "en": "var",
+            "tr": "değişken"
+        },
+        "const": {
+            "en": "const",
+            "tr": "sabit"
+        },
+        "let": {
+            "en": "let",
+            "tr": "yerelDeğişken"
+        },
+        "if": {
+            "en": "if",
+            "tr": "eğer"
+        },
+        "else": {
+            "en": "else",
+            "tr": "değilse"
+        },
+        "for": {
+            "en": "for",
+            "tr": "için"
+        },
+        "while": {
+            "en": "while",
+            "tr": "iken"
+        },
+        "return": {
+            "en": "return",
+            "tr": "dönüş"
+        },
+        "class": {
+            "en": "class",
+            "tr": "sınıf"
+        },
+        "import": {
+            "en": "import",
+            "tr": "içeAktar"
+        },
+        "export": {
+            "en": "export",
+            "tr": "dışaAktar"
+        },
+        "try": {
+            "en": "try",
+            "tr": "dene"
+        },
+        "catch": {
+            "en": "catch",
+            "tr": "yakala"
+        },
+        "finally": {
+            "en": "finally",
+            "tr": "sonunda"
+        },
+        "async": {
+            "en": "async",
+            "tr": "eşzamansız"
+        },
+        "await": {
+            "en": "await",
+            "tr": "bekle"
+        },
+        "true": {
+            "en": "true",
+            "tr": "doğru"
+        },
+        "false": {
+            "en": "false",
+            "tr": "yanlış"
+        },
+        "null": {
+            "en": "null",
+            "tr": "boş"
+        },
+        "undefined": {
+            "en": "undefined",
+            "tr": "tanımsız"
+        }
+    },
+    "user_defined_identifiers": {},
+    "user_defined_comments": {}
+} 

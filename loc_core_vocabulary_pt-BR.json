@@ -1,0 +1,96 @@
+{
+    "target_language": "pt-BR",
+    "meta": {
+        "name": "Core Vocabulary for Code Localizer (Brazilian Portuguese)",
+        "version": "0.1.0",
+        "description": "Initial set of keywords and common types in Brazilian Portuguese."
+    },
+    "system_vocabulary": {
+        "function": {
+            "en": "function",
+            "pt-BR": "função"
+        },
+        "var": {
+            "en": "var",
+            "pt-BR": "variável"
+        },
+        "const": {
+            "en": "const",
+            "pt-BR": "constante"
+        },
+        "let": {
+            "en": "let",
+            "pt-BR": "variávelLocal"
+        },
+        "if": {
+            "en": "if",
+            "pt-BR": "se"
+        },
+        "else": {
+            "en": "else",
+            "pt-BR": "senão"
+        },
+        "for": {
+            "en": "for",
+            "pt-BR": "para"
+        },
+        "while": {
+            "en": "while",
+            "pt-BR": "enquanto"
+        },
+        "return": {
+            "en": "return",
+            "pt-BR": "retornar"
+        },
+        "class": {
+            "en": "class",
+            "pt-BR": "classe"
+        },
+        "import": {
+            "en": "import",
+            "pt-BR": "importar"
+        },
+        "export": {
+            "en": "export",
+            "pt-BR": "exportar"
+        },
+        "try": {
+            "en": "try",
+            "pt-BR": "tentar"
+        },
+        "catch": {
+            "en": "catch",
+            "pt-BR": "capturar"
+        },
+        "finally": {
+            "en": "finally",
+            "pt-BR": "finalmente"
+        },
+        "async": {
+            "en": "async",
+            "pt-BR": "assíncrono"
+        },
+        "await": {
+            "en": "await",
+            "pt-BR": "aguardar"
+        },
+        "true": {
+            "en": "true",
+            "pt-BR": "verdadeiro"
+        },
+        "false": {
+            "en": "false",
+            "pt-BR": "falso"
+        },
+        "null": {
+            "en": "null",
+            "pt-BR": "nulo"
+        },
+        "undefined": {
+            "en": "undefined",
+            "pt-BR": "indefinido"
+        }
+    },
+    "user_defined_identifiers": {},
+    "user_defined_comments": {}
+} 

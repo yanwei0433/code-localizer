@@ -1,0 +1,96 @@
+{
+    "target_language": "ja",
+    "meta": {
+        "name": "Core Vocabulary for Code Localizer (Japanese)",
+        "version": "0.1.0",
+        "description": "Initial set of keywords and common types in Japanese."
+    },
+    "system_vocabulary": {
+        "function": {
+            "en": "function",
+            "ja": "関数"
+        },
+        "var": {
+            "en": "var",
+            "ja": "変数"
+        },
+        "const": {
+            "en": "const",
+            "ja": "定数"
+        },
+        "let": {
+            "en": "let",
+            "ja": "局所変数"
+        },
+        "if": {
+            "en": "if",
+            "ja": "もし"
+        },
+        "else": {
+            "en": "else",
+            "ja": "そうでなければ"
+        },
+        "for": {
+            "en": "for",
+            "ja": "繰り返し"
+        },
+        "while": {
+            "en": "while",
+            "ja": "〜の間"
+        },
+        "return": {
+            "en": "return",
+            "ja": "戻る"
+        },
+        "class": {
+            "en": "class",
+            "ja": "クラス"
+        },
+        "import": {
+            "en": "import",
+            "ja": "インポート"
+        },
+        "export": {
+            "en": "export",
+            "ja": "エクスポート"
+        },
+        "try": {
+            "en": "try",
+            "ja": "試行"
+        },
+        "catch": {
+            "en": "catch",
+            "ja": "捕捉"
+        },
+        "finally": {
+            "en": "finally",
+            "ja": "最終的に"
+        },
+        "async": {
+            "en": "async",
+            "ja": "非同期"
+        },
+        "await": {
+            "en": "await",
+            "ja": "待機"
+        },
+        "true": {
+            "en": "true",
+            "ja": "真"
+        },
+        "false": {
+            "en": "false",
+            "ja": "偽"
+        },
+        "null": {
+            "en": "null",
+            "ja": "空"
+        },
+        "undefined": {
+            "en": "undefined",
+            "ja": "未定義"
+        }
+    },
+    "user_defined_identifiers": {},
+    "user_defined_comments": {}
+} 

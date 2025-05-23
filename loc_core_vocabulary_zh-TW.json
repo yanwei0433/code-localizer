@@ -1,0 +1,96 @@
+{
+    "target_language": "zh-TW",
+    "meta": {
+        "name": "Core Vocabulary for Code Localizer (Traditional Chinese)",
+        "version": "0.1.0",
+        "description": "Initial set of keywords and common types in Traditional Chinese."
+    },
+    "system_vocabulary": {
+        "function": {
+            "en": "function",
+            "zh-TW": "函數"
+        },
+        "var": {
+            "en": "var",
+            "zh-TW": "變數"
+        },
+        "const": {
+            "en": "const",
+            "zh-TW": "常量"
+        },
+        "let": {
+            "en": "let",
+            "zh-TW": "區域變數"
+        },
+        "if": {
+            "en": "if",
+            "zh-TW": "如果"
+        },
+        "else": {
+            "en": "else",
+            "zh-TW": "否則"
+        },
+        "for": {
+            "en": "for",
+            "zh-TW": "循環"
+        },
+        "while": {
+            "en": "while",
+            "zh-TW": "當...時循環"
+        },
+        "return": {
+            "en": "return",
+            "zh-TW": "返回"
+        },
+        "class": {
+            "en": "class",
+            "zh-TW": "類"
+        },
+        "import": {
+            "en": "import",
+            "zh-TW": "導入"
+        },
+        "export": {
+            "en": "export",
+            "zh-TW": "導出"
+        },
+        "try": {
+            "en": "try",
+            "zh-TW": "嘗試"
+        },
+        "catch": {
+            "en": "catch",
+            "zh-TW": "捕獲"
+        },
+        "finally": {
+            "en": "finally",
+            "zh-TW": "最終"
+        },
+        "async": {
+            "en": "async",
+            "zh-TW": "異步"
+        },
+        "await": {
+            "en": "await",
+            "zh-TW": "等待"
+        },
+        "true": {
+            "en": "true",
+            "zh-TW": "真"
+        },
+        "false": {
+            "en": "false",
+            "zh-TW": "假"
+        },
+        "null": {
+            "en": "null",
+            "zh-TW": "空"
+        },
+        "undefined": {
+            "en": "undefined",
+            "zh-TW": "未定義"
+        }
+    },
+    "user_defined_identifiers": {},
+    "user_defined_comments": {}
+} 

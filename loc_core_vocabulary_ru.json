@@ -1,0 +1,96 @@
+{
+    "target_language": "ru",
+    "meta": {
+        "name": "Core Vocabulary for Code Localizer (Russian)",
+        "version": "0.1.0",
+        "description": "Initial set of keywords and common types in Russian."
+    },
+    "system_vocabulary": {
+        "function": {
+            "en": "function",
+            "ru": "функция"
+        },
+        "var": {
+            "en": "var",
+            "ru": "переменная"
+        },
+        "const": {
+            "en": "const",
+            "ru": "константа"
+        },
+        "let": {
+            "en": "let",
+            "ru": "пусть"
+        },
+        "if": {
+            "en": "if",
+            "ru": "если"
+        },
+        "else": {
+            "en": "else",
+            "ru": "иначе"
+        },
+        "for": {
+            "en": "for",
+            "ru": "для"
+        },
+        "while": {
+            "en": "while",
+            "ru": "пока"
+        },
+        "return": {
+            "en": "return",
+            "ru": "вернуть"
+        },
+        "class": {
+            "en": "class",
+            "ru": "класс"
+        },
+        "import": {
+            "en": "import",
+            "ru": "импорт"
+        },
+        "export": {
+            "en": "export",
+            "ru": "экспорт"
+        },
+        "try": {
+            "en": "try",
+            "ru": "попытаться"
+        },
+        "catch": {
+            "en": "catch",
+            "ru": "поймать"
+        },
+        "finally": {
+            "en": "finally",
+            "ru": "наконец"
+        },
+        "async": {
+            "en": "async",
+            "ru": "асинхронный"
+        },
+        "await": {
+            "en": "await",
+            "ru": "ожидать"
+        },
+        "true": {
+            "en": "true",
+            "ru": "истина"
+        },
+        "false": {
+            "en": "false",
+            "ru": "ложь"
+        },
+        "null": {
+            "en": "null",
+            "ru": "пусто"
+        },
+        "undefined": {
+            "en": "undefined",
+            "ru": "неопределенный"
+        }
+    },
+    "user_defined_identifiers": {},
+    "user_defined_comments": {}
+} 
